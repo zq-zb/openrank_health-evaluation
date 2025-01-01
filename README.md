@@ -207,6 +207,9 @@ s_attention=attention/participants反映了相对于参与者数量的关注度�
 ![](https://www.helloimg.com/i/2024/12/31/677401ea1bfe5.png)
 
 ### 动图展示：
+
+**网址：**[开源项目多维健康评估与可视化](http://student.dataease2.fit2cloud.com/#/de-link/JKaNhIvK)
+
 **整体呈现：**
 
 ![](https://www.helloimg.com/i/2024/12/31/677403be76058.gif)
